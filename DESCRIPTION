@@ -1,0 +1,12 @@
+Package: First
+Title: First thing to Run
+Version: 0.0.0.2
+Authors@R: person("Eduardo", "Cortes",
+    email = "edco84@gmail.com",
+    role = c("aut", "cre"))
+Description: Useful functions in R
+Depends: R (>= 3.3.1)
+License: Open Source
+Encoding: UTF-8
+LazyData: true
+Maintainer: Eduardo Cortes <edco84@gmail.com>
